@@ -3,11 +3,18 @@ This documentation covers mainly on how to do data cleaning before visualizing u
 
 ## Documentation Outline
 [Project Overview](#project-overvew)
+
 [Data Sources](#Data-sources)
+
 [Tools Used](#tools-used)
+
 [Exploratory Data Analysis](#exploratory-data-analysis)
+
+
 [Power Bi Instruction Given](#power-Bi-instruction-given)
+
 [Findings](#findings)
+
 [Conclusions](#conclusions)
 
 ## Project Overview
