@@ -2,7 +2,8 @@
 This documentation covers mainly on how to do data cleaning before visualizing using power Bi
 
 ## Documentation Outline
-[Project Overview](#project-overvew)
+
+[Project Overview](#project-overview)
 
 [Data Sources](#Data-sources)
 
