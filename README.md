@@ -24,5 +24,6 @@ As earlier said, this data centres on how to carefully clean our data and derive
 - Lastly I went ahead to combine my years column as one column by doing an unpivot comumns, then I changed the data type under years to whole numbers
 
 ## Findings
-![data]()
-- 
+![data](https://github.com/Ellamina19/Ellamina19-Data-Analysis-for-Skilharvest-2/blob/main/skillharvest%20visual.jpg)
+
+
